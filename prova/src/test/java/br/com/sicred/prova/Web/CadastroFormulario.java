@@ -1,7 +1,7 @@
 /**
  * 
  */
-package br.com.sicred.prova;
+package br.com.sicred.prova.Web;
 
 import org.junit.After;
 import org.junit.Before;
